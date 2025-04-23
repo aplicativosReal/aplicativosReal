@@ -6,9 +6,9 @@ Este repositório representa o ambiente de versionamento e colaboração técnic
 
 ## 🧩 Sobre Nós
 
-O **Grupo Real** é composto por diversas frentes de atuação e empresas que compartilham um único propósito: entregar soluções práticas, robustas e eficientes para o dia a dia empresarial.
+O **Grupo Real** atua em diversas áreas do agronegócio, sempre pautado por valores sólidos e pela busca contínua por inovação. Dentro desse contexto, desenvolvemos internamente soluções digitais com foco em sistemas web, voltadas para otimizar processos e maximizar resultados para nossos parceiros.
 
-Na **Realh**, atuamos com foco no desenvolvimento de sistemas web, integração com ERPs, ferramentas de RH, BI e automações de processos internos.
+Essas soluções incluem integração com ERPs, ferramentas de RH, Business Intelligence (BI) e automações de processos internos, garantindo mais agilidade, controle e inteligência operacional em todas as áreas da empresa.
 
 ---
 
@@ -53,8 +53,8 @@ A maioria dos repositórios é de **uso interno** e exige permissões específic
 Para mais informações sobre os sistemas internos ou oportunidades de colaboração:
 
 🌐 Site oficial: [gruporealbr.com.br](https://gruporealbr.com.br/)  
-📧 E-mail corporativo: contato@gruporealbr.com.br  
-🏢 Realh - Desenvolvimento de Sistemas
+📧 E-mail corporativo: sac@realh.com.br  
+🏢 Equipe de Desenvolvimento de Sistemas - Grupo Real
 
 ---
 
